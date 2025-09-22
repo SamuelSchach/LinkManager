@@ -1,0 +1,19 @@
+.footer-custom{
+    background: rgba(15, 23, 42);
+    backdrop-filter: blur(10px);
+    border-top: 1px solid rgba(56, 189, 248, 0.1);
+    margin-top: auto;
+}
+
+.footer-link {
+    color: #94a3b8 !important;
+    transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+    color: #38bdf8 !important;
+}
+
+.main-content {
+    flex: 1;
+}
